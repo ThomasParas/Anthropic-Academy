@@ -1,45 +1,62 @@
 <div align="right">
-  <a href="assets/tanwei-logo.jpg"><img src="assets/tanwei-logo.jpg" width="140" alt="加入 Agent 交流群"></a>
+  <a href="assets/tanwei-logo.jpg"><img src="assets/tanwei-logo.jpg" width="140" alt="Tanwei"></a>
 </div>
 
-> **[北京探微杜渐科技有限公司](https://tanweai.com)** — 意图安全基础设施 | 奇绩创坛投资
+# Anthropic Academy Complete Course Collection (English Edition)
 
-# Anthropic Academy 课程全集（中文版）
+A complete English text version of all **13 courses** from Anthropic's official course platform, [anthropic.skilljar.com](https://anthropic.skilljar.com).
 
-Anthropic 官方课程平台 [anthropic.skilljar.com](https://anthropic.skilljar.com) 全部 **13 门课程**的完整中文翻译。
+The video lessons have been converted into written form so you can absorb the full content without watching the videos — ideal for developers and practitioners who want to learn the Claude ecosystem efficiently.
 
-将视频课程转为文字版，无需观看视频即可快速掌握全部内容。适合想高效学习 Claude 生态的开发者和从业者。
+## Source & attribution
 
-## 课程列表
+- **Original courses:** [Anthropic Academy](https://anthropic.skilljar.com) — all course content and copyright belong to Anthropic.
+- **Chinese edition (upstream source):** the courses were first transcribed and translated into Chinese by [北京探微杜渐科技有限公司 (Beijing Tanwei Dujian Technology Co., Ltd.)](https://tanweai.com).
+- **English edition (this repository):** translated from the Chinese edition into English.
 
-**入门与素养**
+## What's in this repository
 
-| # | 课程 | 课时 |
-|---|------|------|
-| 1 | Claude 101 入门指南 | 13 节 |
-| 2 | AI 素养：框架与基础 | 15 节 |
-| 3 | 教育者 AI 素养 | 5 节 |
-| 4 | 学生 AI 素养 | 6 节 |
-| 5 | 非营利组织 AI 素养 | 10 节 |
-| 6 | 教授 AI 素养 | 8 节 |
+- `anthropic-courses-complete.md` — the full English text of all 13 courses.
+- `anthropic-courses-complete.pdf` — a 648-page PDF rendering with all course screenshots embedded.
 
-**开发者工具**
+## What we did
 
-| # | 课程 | 课时 |
-|---|------|------|
-| 7 | Agent Skills 入门 | 6 节 |
-| 8 | 使用 Anthropic API 构建应用 | 96 节 |
-| 9 | Claude 与 Google Vertex AI | 93 节 |
-| 10 | Claude Code 实战 | 21 节 |
-| 11 | Claude 与 Amazon Bedrock | 83 节 |
-| 12 | 模型上下文协议（MCP）入门 | 14 节 |
-| 13 | MCP 高级主题 | 15 节 |
+- Translated the complete Chinese edition (~21,000 lines) into English, preserving the document structure, code samples, links, and image references.
+- Rebuilt the PDF from the English text with all images embedded.
+- Repaired several malformed code fences inherited from the source (unclosed code blocks that were swallowing headings and images), so that text and images render correctly.
 
-## 阅读方式
+## Course list
 
-- **在线阅读**：直接查看 [anthropic-courses-complete-cn.md](anthropic-courses-complete-cn.md)
-- **PDF 下载**：[anthropic-courses-complete-cn.pdf](anthropic-courses-complete-cn.pdf)
+**Foundations & Fluency**
+
+| # | Course | Lessons |
+|---|--------|---------|
+| 1 | Claude 101: Getting Started Guide | 13 |
+| 2 | AI Fluency: Frameworks and Foundations | 15 |
+| 3 | AI Fluency for Educators | 5 |
+| 4 | AI Fluency for Students | 6 |
+| 5 | AI Fluency for Nonprofits | 10 |
+| 6 | Teaching AI Fluency | 8 |
+
+**Developer Tools**
+
+| # | Course | Lessons |
+|---|--------|---------|
+| 7 | Introduction to Agent Skills | 6 |
+| 8 | Building Applications with the Anthropic API | 96 |
+| 9 | Claude with Google Vertex AI | 93 |
+| 10 | Claude Code in Action | 21 |
+| 11 | Claude with Amazon Bedrock | 83 |
+| 12 | Introduction to the Model Context Protocol (MCP) | 14 |
+| 13 | MCP Advanced Topics | 15 |
+
+## How to read
+
+- **Read online:** open [anthropic-courses-complete.md](anthropic-courses-complete.md)
+- **PDF download:** [anthropic-courses-complete.pdf](anthropic-courses-complete.pdf)
 
 ## License
 
-本项目为 Anthropic 官方课程的中文翻译，仅供学习和研究使用。原始课程版权归 Anthropic 所有。
+This project is an English translation of Anthropic's official courses, provided for learning and research purposes only. All original course content and copyright belong to Anthropic.
+</content>
+</invoke>
